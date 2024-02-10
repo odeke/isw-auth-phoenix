@@ -1,0 +1,24 @@
+{
+    "AllowedHosts": "*",
+
+    "AppKeys": {
+        //Jwt keys
+        "Key": "veryVerySecretKey",
+        "Issuer": "https://localhost:44385/",
+
+        //Connection string
+        "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=isw_auth_db;Trusted_Connection=True;",
+
+        //Phoenix API
+        "PhoenixBaseUrl": "https://dev.interswitch.io/api/v1/phoenix/",
+        "PhoenixSerialId": "IntegrationBroker",
+        "PhoenixTerminalId": "3ISO0095",
+        "PhoenixPassword": "your password",
+        "PhoenixClientId": "IKIA4F83C0BCF0D0398BBD527EA1E569B703F1014D70",
+        "PhoenixClientSecretKey": "roVC48+09OeERPGiegNGXg5bR9HQsU92K8JMt48cipE=",
+        "PhoenixTransportKey": "AqclVFASa0hkmw8PDLLg73+VRBuuOYwsF/r/21DYOkih"
+
+
+
+    }
+}

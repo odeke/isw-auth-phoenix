@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixAuth.BusinessLogic", "PhoenixAuth.BusinessLogic\PhoenixAuth.BusinessLogic.csproj", "{4F9A3C30-74FB-4A50-91EF-F696A6572179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoenixAuth", "PhoenixAuth\PhoenixAuth.csproj", "{F283E184-6F39-4056-A100-22AC28E124DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F9A3C30-74FB-4A50-91EF-F696A6572179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9A3C30-74FB-4A50-91EF-F696A6572179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9A3C30-74FB-4A50-91EF-F696A6572179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9A3C30-74FB-4A50-91EF-F696A6572179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F283E184-6F39-4056-A100-22AC28E124DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F283E184-6F39-4056-A100-22AC28E124DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F283E184-6F39-4056-A100-22AC28E124DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F283E184-6F39-4056-A100-22AC28E124DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA67EC7-5D2A-4AFA-A0EE-EB59211F87DD}
+	EndGlobalSection
+EndGlobal
